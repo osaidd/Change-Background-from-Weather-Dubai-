@@ -8,4 +8,4 @@ Looks Like This:
 
 
 
-May need to change path 
+May need to change path and API key for OpenWeather(or just use mine haha)
